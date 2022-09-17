@@ -14,8 +14,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Deepanshu-5288/NFT-Preview-Card)
-- Live Site URL: [Add live site URL here](https://deepanshu-5288.github.io/NFT-Preview-Card/)
+- Solution URL: (https://github.com/Deepanshu-5288/NFT-Preview-Card)
+- Live Site URL: (https://deepanshu-5288.github.io/NFT-Preview-Card/)
 
 
 
